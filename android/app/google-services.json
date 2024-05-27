@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "78403230469",
+    "project_id": "techassessment-35fc5",
+    "storage_bucket": "techassessment-35fc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78403230469:android:49e28ed7c25397c11f356c",
+        "android_client_info": {
+          "package_name": "com.example.tech_assessment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgOVdZtvpj80g9Ai47R91R-FAqHa4G28E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
